@@ -1,2 +1,2 @@
-# pro_22
-##凯盛22期代码
+# bbs_22
+##kaishengit no.22 first project bbs
